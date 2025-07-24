@@ -1,9 +1,10 @@
 # Hi 👋 I'm Aidyn Kittrell!
 I'm a senior at Georgia State University, pursuing a Bachelor's in Computer Science. I have a strong passion for AI Engineering, with a particular interest in machine learning and data science. I enjoy working on projects that challenge me to learn and grow as a developer.
 
-<!-- ## 🌱 Currently Learning -->
+<!-- ## 🌱 Currently Learning
 - Web Scraping
 - AI techniques and modeling
+-->
 
 <!-- ## 👯 Looking to Collaborate On -->
 
