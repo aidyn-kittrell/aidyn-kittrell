@@ -9,7 +9,7 @@ I'm a senior at Georgia State University, pursuing a Bachelor's in Computer Scie
 <!-- ## 👯 Looking to Collaborate On -->
 
 ## 📫 How to Reach Me
-![LinkedIn](https://www.linkedin.com/in/aidyn-kittrell/)
+[LinkedIn](https://www.linkedin.com/in/aidyn-kittrell/)
 
 <!-- ## 💼 Portfolio -->
 
