@@ -1,5 +1,5 @@
 # Hi 👋 I'm Aidyn Kittrell!
-I am a graduate from Georgia State University, where I achieved a Bachelor's in Computer Science, along with a Ceritificate of Data Science. I have a strong passion for AI Engineering, with a particular interest in Machine Learning and Data Science. I have also delved into Full-Stack Development. I enjoy working on projects that challenge me to learn and grow as a developer!
+I am a graduate from Georgia State University, where I achieved a Bachelor's in Computer Science, along with a Certificate of Data Science. I have a strong passion for AI Engineering, with a particular interest in Machine Learning and Data Science. I have also delved into Full-Stack Development. I enjoy working on projects that challenge me to learn and grow as a developer!
 
 <!-- ## 🌱 Currently Learning
 - Web Scraping
